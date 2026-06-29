@@ -9,25 +9,25 @@ chapter: false
 
 ### Thông tin sinh viên:
 
-&emsp; **Họ và tên:** Lê Vũ Phương Hòa
+&emsp; **Họ và tên:** Trần Lê Công Danh
 
-&emsp; **Số điện thoại:** 0327 030 024
+&emsp; **Số điện thoại:** 0768884073
 
-&emsp; **Email:** danielleee241@gmail.com
+&emsp; **Email:** Danhcongtranle@gmail.com
 
-&emsp; **Trường:** Đại học FPT TP.HCM
+&emsp; **Trường:** Đại học Sài Gòn
 
 &emsp; **Ngành:** Công nghệ thông tin
 
-&emsp; **Lớp:** SE181951
+&emsp; **Lớp:** DCT1223
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Vietnam
 
-&emsp; **Vị trí thực tập:** FCJ Cloud Intern
+&emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Thời gian thực tập:** Từ ngày 12/08/2025 đến ngày 12/12/2025
+&emsp; **Thời gian thực tập:** Từ ngày 22/06/2026 đến ngày 15/08/2026
 
-<img src="/images/Phuong_Hoa.png" alt="Ảnh đại diện của bạn" width="450"/>
+<img src="/images/TranLeCongDanh.jpg" alt="Ảnh đại diện của bạn" width="450"/>
 
 ### Nội dung báo cáo
 

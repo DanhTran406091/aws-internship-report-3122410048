@@ -9,25 +9,25 @@ chapter: false
 
 ### Student Information:
 
-&emsp; **Full Name:** Le Vu Phuong Hoa
+&emsp; **Full Name:** Tran Le Cong Danh
 
-&emsp; **Phone Number:** 0327 030 024
+&emsp; **Phone Number:** 0768884073
 
-&emsp; **Email:** danielleee241@gmail.com
+&emsp; **Email:** Danhcongtranle@gmail.com
 
-&emsp; **University:** FPT University Campus Ho Chi Minh
+&emsp; **University:** Sai Gon University
 
 &emsp; **Major:** Information Technology
 
-&emsp; **Class:** SE181951
+&emsp; **Class:** DCT1223
 
 &emsp; **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
 
-&emsp; **Internship Position:** FCJ Cloud Intern
+&emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Internship Duration:** From 12/08/2025 to 12/12/2025
+&emsp; **Internship Duration:** From 22/06/2026 to 15/08/2026
 
-<img src="/images/Phuong_Hoa.png" alt="Your profile picture" width="450"/>
+<img src="/images/TranLeCongDanh.jpg" alt="Your profile picture" width="450"/>
 
 ### Report Content
 
